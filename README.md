@@ -23,9 +23,7 @@ seu_projeto/
 │
 ├── extrator.py
 
-bash
-Copiar
-Editar
+
 
 ## ▶️ Como utilizar
 
@@ -35,15 +33,11 @@ git clone https://github.com/seu-usuario/nome-do-repo.git
 cd nome-do-repo
 Instale as dependências:
 
-bash
-Copiar
-Editar
+
 pip install pdfplumber openpyxl
 Execute o script:
 
-bash
-Copiar
-Editar
+
 python extrator.py
 Ao final da execução, um novo arquivo .xlsx será gerado com os dados extraídos, contendo as colunas:
 
